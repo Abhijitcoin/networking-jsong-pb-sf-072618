@@ -1,0 +1,1 @@
+{"stats": {"errors": 0, "failures": 0, "passes": 2, "skipped": 0, "encoding": "UTF-8", "total": 2}, "results": [{"classname": "index_test:NetworkEnvelopeTest", "name": "test_parse", "time": 0.00035119056701660156, "type": "success"}, {"classname": "index_test:NetworkEnvelopeTest", "name": "test_serialize", "time": 0.00011944770812988281, "type": "success"}]}
